@@ -1,6 +1,6 @@
 
 
-# 📝 Digital Diary (Maven JavaFX App)
+#  Digital Diary 
 
 Digital Diary is a JavaFX-based desktop application that allows users to securely write, manage, and export personal journal entries.
 The app includes user authentication, mood tagging, motivational quotes, image attachments, and PDF export functionality.
