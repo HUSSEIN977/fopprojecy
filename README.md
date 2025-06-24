@@ -81,7 +81,7 @@ Mood
 Content
 
 # Note on Security
-This demo app stores plaintext passwords. For real applications, use hashing (e.g., BCrypt).
+This demo app hashes password using BCrypt.
 
 # Contributors
 -  HUSSIN MAHMOUD ABDELALL MAHMOUD (22120218)
